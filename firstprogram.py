@@ -1,3 +1,1 @@
-name = "Tanmay"
-age = 20
-price = 9.99 
+print(5*5) 
