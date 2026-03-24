@@ -1,2 +1,5 @@
 name = input("Enter your name: ")
-print("welcome",name)
+age = input("Enter your age: ")
+marks = input("Enter your marks: ")
+
+print("Hello, welcome", name)
