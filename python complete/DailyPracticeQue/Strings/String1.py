@@ -3,7 +3,19 @@
 # str3 = """this is a string"""
 
 
-str1 = " This is a string .\n we use in python"
-print(str1)
+str1 = " my"  
+str2 = "dream" 
+
+len2= len(str2)
+print(len2)
+
+final_string = str1 +   " " + str2
+print(final_string)
+
+
+print(len(str1))
+
+
+
 
 
