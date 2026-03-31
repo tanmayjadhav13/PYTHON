@@ -18,8 +18,9 @@
 # print(str.find("m"))   #find function
 
 #(5)
-str = "tanmay"
-print(str.count("a")) 
+# str = "tanmay"
+# print(str.count("a")) #count function
+
 
 
 
