@@ -1,4 +1,4 @@
-
+# WAP to check whether the input number is even or odd
 num = int(input("Enter the number"))
 rem = num % 2
 if(num ==0):
