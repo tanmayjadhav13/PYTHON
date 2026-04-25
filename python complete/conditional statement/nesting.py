@@ -1,4 +1,4 @@
-age =34
+age =96
 # nesting 
 if(age>=18):
     if(age>=80):
