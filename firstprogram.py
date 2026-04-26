@@ -1,1 +1,1 @@
-print(5*5) 
+print("my name is \n tanmay")
