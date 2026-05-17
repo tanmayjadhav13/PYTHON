@@ -18,7 +18,7 @@ print(list)
 list.sort (reverse=True)
 print(list)
 
-# # 3) REVERSE METHOD
+# 3) REVERSE METHOD
 list = [5,2,3,1]
 list.reverse()
 print(list)
